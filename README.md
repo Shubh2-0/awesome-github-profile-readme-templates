@@ -11,18 +11,7 @@ Feel free to add your or someone else's GitHub profile README file.
 
 Don't forget to hit the :star: if you like this repo.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 👤 Author
+*   **Shubham Bhati** (Java Backend Engineer) - [LinkedIn](https://www.linkedin.com/in/bhatishubham) | [Portfolio](https://shubhambhati.is-a.dev)
